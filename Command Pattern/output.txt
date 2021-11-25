@@ -1,0 +1,3 @@
+Enter 1, 2, or 3, or q: 
+
+When they enter 1, 2, or 3, it will play a line of the song, clear the screen, then continue through all lines of the song.
